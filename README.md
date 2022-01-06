@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/LijenKhoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/LijenKhoder"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a style="align: right" href="https://github.com/LijenKhoder"><img src="https://api.daily.dev/devcards/1aeaad2b98784fd8abd000ed6cf017a3.png?r=xkq" width="400" alt="Lijen Khoder's Dev Card"/></a>
+<a style="float: right" href="https://github.com/LijenKhoder"><img src="https://api.daily.dev/devcards/1aeaad2b98784fd8abd000ed6cf017a3.png?r=xkq" width="400" alt="Lijen Khoder's Dev Card"/></a>
 
 ### 🛠️ My Skills and Languages I use
 
